@@ -2,6 +2,9 @@
 
 ## [Unreleased]
 
+## [1.0.4] - 2020-12-01
+- Added a task for running `npm ci`.
+
 ## [1.0.3] - 2020-10-10
 ### Changed
 - Update dependencies and migrate to GitHub Actions.

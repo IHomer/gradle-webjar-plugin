@@ -16,7 +16,7 @@ Add to your `build.gradle`:
 
 ```gradle
 plugins {
-  id 'com.coditory.webjar' version '1.0.3'
+  id 'com.coditory.webjar' version '1.0.4'
 }
 ```
 

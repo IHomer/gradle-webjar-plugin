@@ -56,6 +56,7 @@ open class WebjarPlugin : Plugin<Project> {
         const val WEBJAR_REMOVE_MODULES_TASK = "webjarRemoveModules"
         const val WEBJAR_INIT_TASK = "webjarInit"
         const val WEBJAR_INSTALL_TASK = "webjarInstall"
+        const val WEBJAR_CI_TASK = "webjarCi"
         const val WEBJAR_CLEAN_TASK = "webjarClean"
         const val WEBJAR_LINT_TASK = "webjarLint"
         const val WEBJAR_TEST_TASK = "webjarTest"
